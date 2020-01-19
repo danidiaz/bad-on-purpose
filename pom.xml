@@ -5,10 +5,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>org.danisoft</groupId>
-  <artifactId>bad-in-purpose</artifactId>
+  <artifactId>bad-on-purpose</artifactId>
   <version>1.0</version>
 
-  <name>bad-in-purpose</name>
+  <name>bad-on-purpose</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
